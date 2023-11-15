@@ -1,0 +1,44 @@
+body {
+  font-family: 'Arsenal', sans-serif;
+font-family: 'Bitter', serif;
+  background-color:  #3B4E8B
+
+}
+
+h2 {color: #EDB343;
+}
+
+
+h1{color: #EDB343;
+}
+
+
+.nicho{height: 50px
+}
+
+.card {
+  justify-content: center;
+  margin: 20px;
+}
+
+
+
+.bg-custom {
+    background-color:  #3B4E8B;
+}
+
+.navbar-brand{
+  font-family: 'IBM Plex Serif', serif;
+  margin: 0;
+}
+
+main{
+  text-align: center;
+}
+
+
+.card img{border-radius: 60%;
+width: 200 px;
+height: 200px;
+}
+
